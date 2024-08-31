@@ -1,7 +1,1 @@
-- 🔭 I’m currently working on Leetcode Problems
-- 🌱 I’m currently learning ReactJS
-- 🤔 I’m looking for help with Project Management
-- 💬 Ask me about Javascript
-- 📫 How to reach me: kshitijshah95@gmail.com
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: People who cannot pronounce my name right call me Chris.
+
